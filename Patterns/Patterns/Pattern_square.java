@@ -12,5 +12,6 @@ public class Pattern_square {
             System.out.println();
             
         }
+        sc.close();;
     }
 }
